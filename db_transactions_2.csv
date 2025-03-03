@@ -1,0 +1,21 @@
+TransactionID,Items
+1,Pasta;Olive Oil;Coffee
+2,Olive Oil;Coffee;Tea
+3,Coffee;Tea;Sugar
+4,Tea;Sugar;Salt
+5,Sugar;Salt;Flour
+6,Salt;Flour;Butter
+7,Flour;Butter;Cheese
+8,Butter;Cheese;﻿Product
+9,Cheese;﻿Product;Rice
+10,﻿Product;Rice;Pasta
+11,Rice;Pasta;Olive Oil
+12,Pasta;Olive Oil;Coffee
+13,Olive Oil;Coffee;Tea
+14,Coffee;Tea;Sugar
+15,Tea;Sugar;Salt
+16,Sugar;Salt;Flour
+17,Salt;Flour;Butter
+18,Flour;Butter;Cheese
+19,Butter;Cheese;﻿Product
+20,Cheese;﻿Product;Rice
